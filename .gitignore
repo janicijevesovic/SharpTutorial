@@ -1,0 +1,54 @@
+# .NET build results
+bin/
+obj/
+out/
+Debug/
+DebugPublic/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# NuGet Packages
+packages/
+*.nupkg
+*.snupkg
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider IDE settings
+.idea/
+
+# Logs
+*.log
+*.tlog
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# TypeScript declaration files (if using TypeScript)
+*.d.ts
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Web-related files (if applicable)
+dist/
+build/
+public/
